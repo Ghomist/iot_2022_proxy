@@ -1,0 +1,7 @@
+{
+	"logger": {
+		"max-len": 128,
+		"time-log": true,
+		"log-file": "LOGGER.txt"
+	}
+}

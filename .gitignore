@@ -1,0 +1,13 @@
+# All python cache folder
+__pycache__
+
+# vscode env
+.vscode
+
+# logger output
+LOGGER.txt
+
+test.py
+
+# Devices key from huawei cloud
+DEVICES-KEY.bib
